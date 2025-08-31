@@ -41,6 +41,7 @@ ___
 - A12 – Main Pulley (70T) (x2)
 - S07 - Cone point hex socket set M3x3 (x3)
   
+
 **Instructions:**  
 - Foreach Pulley (70T) and Harmonic Reducer
    - Ensure correct orientation of the screws — refer to the 3D model if needed.
@@ -79,7 +80,7 @@ Fix two M4 square corner cubes (C10) onto Main Frame A (A01) using one M4x8 scre
 - Double-check the reducer's alignment.
 
 Due to the necessity to ensure that the reducer fits into the space, a little margin has been taken. Therefore, it is important to verify that there is as much space between the reducer and the main plate on each side.
-  
+
 > Tip: a 3D-printed centering tool can be helpful for perfect alignment. (To be build.)
 > 
 > Tip: put the same folded paper sheet on four sides of the reducer.
@@ -387,6 +388,7 @@ ___
 </div>
 
 **Parts:**
+
 - A04 – Lateral Plate B (x1)  
 - S19 – M4x8 Screws (as needed)
 
@@ -395,12 +397,30 @@ Attach the lateral plate (A04) to the RA/DEC frame to complete the squared brack
 
 ___
 
-### 🔧 Step 15: Install Top Electronics
+### 🔧 Step 15: Install Wire organization
+
+
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-WireOrganisation.png" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-WireLength.png" width="20%">
+</div>
+
+**Parts:**
+
+- 
+
+**Instructions:**  
+
+
+
+### 🔧 Step 16: Install Top Electronics
 
 <div style="display: flex; margin-bottom: 5px;">
-  <img src="pictures/2025-HEMY2-ASM-STEP15-01.jpg" width="30%" style="margin-right: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP15-01.jpg" width="30%">
   <img src="pictures/2025-HEMY2-ASM-STEP15-02.jpg" width="30%">
 </div>
+
 
 <div style="display: flex;">
   <img src="pictures/2025-HEMY2-ASM-STEP15-03.jpg" width="30%" style="margin-right: 5px;">
@@ -419,7 +439,7 @@ Make sure all cables are connected and routed cleanly.
 
 ___
 
-### 🔧 Step 16: Final Assembly of Top/Bottom/Lateral Plates
+### 🔧 Step 17: Final Assembly of Top/Bottom/Lateral Plates
 
 <div style="display: flex; margin-bottom: 5px;">
   <img src="pictures/2025-HEMY2-ASM-STEP16-01.jpg" width="30%" style="margin-right: 5px;">
@@ -430,8 +450,8 @@ ___
   <img src="pictures/2025-HEMY2-ASM-STEP16-03.jpg" width="30%" style="margin-right: 5px;">
   <img src="pictures/2025-HEMY2-ASM-STEP16-04.jpg" width="30%">
 </div>
-
 **Parts:**
+
 - A05 – Top Plate  
 - A06 – Bottom Plate  
 - A03 – Lateral Plate A
@@ -443,21 +463,32 @@ ___
 
 ## Final Adjustments and Output Flange
 
-### 🔧 Step 17: Install Output Flange and Vixen Plate
+### 🔧 Step 18: Install Output Flange
 
 <div style="flex: 1; max-width: 200px;">
   <img align="right" src="pictures/2025-HEMY2-ASM-STEP17-01.jpg" width="20%" style="margin-bottom: 5px;">
   <img align="right" src="pictures/2025-HEMY2-ASM-STEP17-02.jpg" width="20%">
 </div>
-
 **Parts:**
+
 - A11 – Output Flange  
-- C18 – Vixen Plate
 - S06 - Hex socket head cap M3x30 (x12)
 - S16 - Socket button head M3x5  (x2)
 
 **Instructions:**  
 Install the output flange (A11) onto the RA reducer. 
+
+
+
+### 🔧 Step 19: Install Vixen Plate
+
+**Parts:**
+
+- C18 – Vixen Plate
+- To be written : Sockets
+
+**Instructions:**  
+
 Then, mount the Vixen plate (C18) securely.
 
 🎉 You have now fully assembled your HEMY mount!
