@@ -401,9 +401,11 @@ ___
 
 
 
-<div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-WireOrganisation.png" width="20%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-WireLength.png" width="20%">
+<div style="display: flex; margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-WireOrganisation.png" width="50%" style="margin-bottom: 5px;">
+</div>
+<div style="display: flex; margin-bottom: 5px;">
+    <img align="right" src="pictures/2025-WireLength.png" width="50%" style="margin-bottom: 5px;">
 </div>
 
 **Parts:**
