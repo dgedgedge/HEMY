@@ -472,10 +472,11 @@ ___
   <img align="right" src="pictures/2025-HEMY2-ASM-STEP17-02.jpg" width="20%">
 </div>
 **Parts:**
-
 - A11 – Output Flange  
 - S06 - Hex socket head cap M3x30 (x12)
 - S16 - Socket button head M3x5  (x2)
+- C18 – Vixen Plate
+- S08 – M5x10 Screws (x4) 
 
 **Instructions:**  
 Install the output flange (A11) onto the RA reducer. 
